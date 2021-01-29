@@ -23,11 +23,11 @@ namespace Lab02
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        private List<Book> Books;
+        private List<Book> Bookes;
         public MainPage()
         {
             this.InitializeComponent();
-            Books = BookManager.GetBooks();
+            Bookes = BookManager.GetBooks();
         }
 
         private void GridView_ItemClick(object sender, ItemClickEventArgs e)
