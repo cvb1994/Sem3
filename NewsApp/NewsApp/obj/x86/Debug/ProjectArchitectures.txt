@@ -1,0 +1,1 @@
+E:\Code\Sem3\NewsApp\NewsApp\NewsApp.csproj;x86

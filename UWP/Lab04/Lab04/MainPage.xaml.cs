@@ -26,6 +26,7 @@ namespace Lab04
     {
         private List<Icon> Icons;
         private ObservableCollection<Contact> Contacts;
+        
         public MainPage()
         {
             this.InitializeComponent();

@@ -1,0 +1,1 @@
+E:\Code\Sem3\UWP\OpenWeatherApp\OpenWeatherApp\OpenWeatherApp.csproj;x86
